@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestJava</string>
+    <string name="filter">Filter</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="all_users">All users</string>
+    <string name="visited">Visited</string>
+    <string name="no_Visited">No Visited</string>
+</resources>
